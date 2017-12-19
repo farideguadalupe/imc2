@@ -48,6 +48,4 @@ public class MainActivity extends AppCompatActivity {
 
         mEtiquetaImc = (TextView) findViewById(R.id.etiqueta_imc);
     }
-
-
 }
